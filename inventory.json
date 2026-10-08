@@ -1,6 +1,6 @@
 {
   "dealership": "Harris Kia",
-  "generated_at": "2026-09-26T09:34:52",
+  "generated_at": "2026-10-08T14:37:53",
   "vehicle_count": 139,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -10,6 +10,7 @@
       "vin": "KNDPVCDFXS7414722",
       "stock": "KT25-25",
       "color": "Black",
+      "trim": "EX Premium",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/636e126525e2.html",
       "source_url": "https://www.harriskia.ca/vehicles/2025/kia/sportage/nanaimo/bc/65936995/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2025/kia/sportage/nanaimo/bc/65936995/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -19,14 +20,17 @@
       "odometer_km": 10475,
       "year": 2025,
       "make": "Kia",
-      "model": "Sportage EX Premium AWD",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Carnival LX+ | 8-Passenger | Navigation",
       "vin": "KNDNB5K3XT6633269",
       "stock": "KT26-44",
       "color": "White",
+      "trim": "LX+",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/35a177fa3dca.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/carnival/nanaimo/bc/70416283/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/carnival/nanaimo/bc/70416283/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -36,14 +40,17 @@
       "odometer_km": 281,
       "year": 2026,
       "make": "Kia",
-      "model": "Carnival LX+",
-      "condition": "new"
+      "model": "Carnival",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia EV9 Light | Fully Electric | 7-Passenger",
       "vin": "KNDAA5S27T6068634",
       "stock": "KT26-25",
       "color": "Grey",
+      "trim": "Light",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/d6842914a546.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/ev9/nanaimo/bc/66905550/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/ev9/nanaimo/bc/66905550/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -53,14 +60,17 @@
       "odometer_km": 2216,
       "year": 2026,
       "make": "Kia",
-      "model": "EV9 Light",
-      "condition": "new"
+      "model": "EV9",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia EV9 GT AWD | Navigation | Premium Audio",
       "vin": "KNDAAFS74T6080001",
       "stock": "KT26-46",
       "color": "Black",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/6152a0c2c08d.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/ev9/nanaimo/bc/70508972/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/ev9/nanaimo/bc/70508972/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -70,14 +80,17 @@
       "odometer_km": 1527,
       "year": 2026,
       "make": "Kia",
-      "model": "EV9 GT AWD",
-      "condition": "new"
+      "model": "EV9",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia K4 Hatchback LX | Remote Start | Heated Seats",
       "vin": "3KPFT5DE9TE349593",
       "stock": "K26-32",
       "color": "Blue",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/c3754223f9d4.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/k4-hatchback/nanaimo/bc/70309671/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/k4-hatchback/nanaimo/bc/70309671/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -87,14 +100,17 @@
       "odometer_km": 22,
       "year": 2026,
       "make": "Kia",
-      "model": "K4 Hatchback LX",
-      "condition": "new"
+      "model": "K4",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia K4 Hatchback GT-Line Turbo Limited | Sunroof | Ventilated Seats",
       "vin": "3KPFU5DC4TE374803",
       "stock": "K26-38",
       "color": "Blue",
+      "trim": "GT-Line Turbo Limited",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/ace9819661c5.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/k4-hatchback/nanaimo/bc/70678967/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/k4-hatchback/nanaimo/bc/70678967/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -104,14 +120,17 @@
       "odometer_km": 21,
       "year": 2026,
       "make": "Kia",
-      "model": "K4 Hatchback GT-Line Turbo Limited",
-      "condition": "new"
+      "model": "K4",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia K4 Hatchback EX+ | Remote Start | Leatherette Seats",
       "vin": "3KPFX5DE1TE377327",
       "stock": "K26-37",
       "color": "White",
+      "trim": "EX+",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/0e76dbccda74.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/k4-hatchback/nanaimo/bc/70678970/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/k4-hatchback/nanaimo/bc/70678970/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -121,14 +140,17 @@
       "odometer_km": 23,
       "year": 2026,
       "make": "Kia",
-      "model": "K4 Hatchback EX+",
-      "condition": "new"
+      "model": "K4",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia K4 Hatchback GT-Line Turbo | Sunroof | Navigation",
       "vin": "3KPFU5DC7TE409625",
       "stock": "TR26-46",
       "color": "White",
+      "trim": "GT-Line Turbo",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/017bc86e9b9a.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/k4-hatchback/nanaimo/bc/71156104/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/k4-hatchback/nanaimo/bc/71156104/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -138,14 +160,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Kia",
-      "model": "K4 Hatchback GT-Line Turbo",
-      "condition": "new"
+      "model": "K4",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia K4 Hatchback GT-Line Turbo Limited | Leatherette Seats | Harman",
       "vin": "3KPFU5DC9TE408895",
       "stock": "TR26-47",
       "color": "White",
+      "trim": "GT-Line Turbo Limited",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/0a3b9cb7c6cc.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/k4-hatchback/nanaimo/bc/71156106/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/k4-hatchback/nanaimo/bc/71156106/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -155,14 +180,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Kia",
-      "model": "K4 Hatchback GT-Line Turbo Limited",
-      "condition": "new"
+      "model": "K4",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia K4 LX | Remote Start | Heated Seats",
       "vin": "3KPFT4DE4TE338916",
       "stock": "TR26-26",
       "color": "Red",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/e58f5aeff616.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/k4/nanaimo/bc/70103921/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/k4/nanaimo/bc/70103921/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -172,14 +200,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Kia",
-      "model": "K4 LX",
-      "condition": "new"
+      "model": "K4",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia K4 EX+ | Back-Up Camera | Remote Start",
       "vin": "3KPFU4DE4TE346754",
       "stock": "K26-30",
       "color": "Red",
+      "trim": "EX+",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/8902a34141f4.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/k4/nanaimo/bc/70225447/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/k4/nanaimo/bc/70225447/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -189,14 +220,17 @@
       "odometer_km": 50,
       "year": 2026,
       "make": "Kia",
-      "model": "K4 EX+",
-      "condition": "new"
+      "model": "K4",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia K4 EX | Back-Up Camera | Remote Start",
       "vin": "3KPFU4DE8TE346627",
       "stock": "K26-31",
       "color": "Black",
+      "trim": "EX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/565112f85b2e.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/k4/nanaimo/bc/70309667/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/k4/nanaimo/bc/70309667/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -206,14 +240,17 @@
       "odometer_km": 25,
       "year": 2026,
       "make": "Kia",
-      "model": "K4 EX",
-      "condition": "new"
+      "model": "K4",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia K4 GT-Line Turbo Limited | Sunroof | Collision Avoida",
       "vin": "3KPFW4DC0TE370493",
       "stock": "K26-36",
       "color": "Grey",
+      "trim": "GT-Line Turbo Limited",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/1a31fd11f9dd.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/k4/nanaimo/bc/70563917/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/k4/nanaimo/bc/70563917/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -223,14 +260,17 @@
       "odometer_km": 26,
       "year": 2026,
       "make": "Kia",
-      "model": "K4 GT-Line Turbo Limited",
-      "condition": "new"
+      "model": "K4",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia K4 GT-Line Turbo | Sunroof | Leatherette Seats",
       "vin": "3KPFW4DC0TE370896",
       "stock": "K26-35",
       "color": "Blue",
+      "trim": "GT-Line Turbo",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/5a65f3f2a8df.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/k4/nanaimo/bc/70563919/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/k4/nanaimo/bc/70563919/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -240,14 +280,17 @@
       "odometer_km": 22,
       "year": 2026,
       "make": "Kia",
-      "model": "K4 GT-Line Turbo",
-      "condition": "new"
+      "model": "K4",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia K4 GT-Line Turbo | Sunroof | Navigation",
       "vin": "3KPFW4DC8TE384819",
       "stock": "K26-39",
       "color": "Black",
+      "trim": "GT-Line Turbo",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/72d295976db8.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/k4/nanaimo/bc/70736992/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/k4/nanaimo/bc/70736992/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -257,14 +300,17 @@
       "odometer_km": 28,
       "year": 2026,
       "make": "Kia",
-      "model": "K4 GT-Line Turbo",
-      "condition": "new"
+      "model": "K4",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia K4 GT-Line Turbo | Sunroof | Leatherette Seats",
       "vin": "3KPFW4DC9TE381315",
       "stock": "K26-40",
       "color": "Black",
+      "trim": "GT-Line Turbo",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/5b8523fa7042.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/k4/nanaimo/bc/70736999/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/k4/nanaimo/bc/70736999/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -274,14 +320,17 @@
       "odometer_km": 27,
       "year": 2026,
       "make": "Kia",
-      "model": "K4 GT-Line Turbo",
-      "condition": "new"
+      "model": "K4",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia K4 LX | Remote Start | Heated Seats",
       "vin": "3KPFT4DE2TE395454",
       "stock": "TR26-42",
       "color": "Black",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/7edddc3e77e8.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/k4/nanaimo/bc/70950874/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/k4/nanaimo/bc/70950874/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -291,14 +340,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Kia",
-      "model": "K4 LX",
-      "condition": "new"
+      "model": "K4",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia K4 GT-Line Turbo | Sunroof | Navigation",
       "vin": "3KPFW4DC3TE400215",
       "stock": "K26-44",
       "color": "Black",
+      "trim": "GT-Line Turbo",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/30a44528080b.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/k4/nanaimo/bc/70978152/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/k4/nanaimo/bc/70978152/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -308,14 +360,17 @@
       "odometer_km": 27,
       "year": 2026,
       "make": "Kia",
-      "model": "K4 GT-Line Turbo",
-      "condition": "new"
+      "model": "K4",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia K4 GT-Line Turbo | Sunroof | Navigation",
       "vin": "3KPFW4DC1TE408782",
       "stock": "TR26-45",
       "color": "Black",
+      "trim": "GT-Line Turbo",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/d031c81a4c6c.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/k4/nanaimo/bc/71117683/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/k4/nanaimo/bc/71117683/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -325,14 +380,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Kia",
-      "model": "K4 GT-Line Turbo",
-      "condition": "new"
+      "model": "K4",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | Fully Electric | Navigation",
       "vin": "KNDCR3L15T5151626",
       "stock": "KT26-28",
       "color": "Grey",
+      "trim": "Wind+",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/024922192335.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/69442387/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/69442387/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -342,14 +400,17 @@
       "odometer_km": 33,
       "year": 2026,
       "make": "Kia",
-      "model": "Niro EV Wind+",
-      "condition": "new"
+      "model": "Niro EV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | Fully Electric | Navigation",
       "vin": "KNDCR3L10T5149329",
       "stock": "KT26-37",
       "color": "White",
+      "trim": "Wind+",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/0b3768d80ac9.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/70065140/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/70065140/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -359,14 +420,17 @@
       "odometer_km": 51,
       "year": 2026,
       "make": "Kia",
-      "model": "Niro EV Wind+",
-      "condition": "new"
+      "model": "Niro EV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | Fully Electric | Navigation",
       "vin": "KNDCR3L18T5156724",
       "stock": "KT26-42",
       "color": "White",
+      "trim": "Wind+",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/429223e86632.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/70309660/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/70309660/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -376,14 +440,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Kia",
-      "model": "Niro EV Wind+",
-      "condition": "new"
+      "model": "Niro EV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | Fully Electric | Navigation",
       "vin": "KNDCR3L16T5156995",
       "stock": "KT26-41",
       "color": "Grey",
+      "trim": "Wind+",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/535808af39c3.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/70309662/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/70309662/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -393,14 +460,17 @@
       "odometer_km": 23,
       "year": 2026,
       "make": "Kia",
-      "model": "Niro EV Wind+",
-      "condition": "new"
+      "model": "Niro EV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wave | Ventilated Seats | Sunroof",
       "vin": "KNDCT3L16T5158571",
       "stock": "KT26-43",
       "color": "Black",
+      "trim": "Wave",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/548821baa6a8.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/70354389/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/70354389/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -410,14 +480,17 @@
       "odometer_km": 25,
       "year": 2026,
       "make": "Kia",
-      "model": "Niro EV Wave",
-      "condition": "new"
+      "model": "Niro EV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | Fully Electric | Navigation",
       "vin": "KNDCR3L14T5158390",
       "stock": "KT26-43",
       "color": "Blue",
+      "trim": "Wind+",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/3567a4c453d8.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/70354391/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/70354391/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -427,14 +500,17 @@
       "odometer_km": 21,
       "year": 2026,
       "make": "Kia",
-      "model": "Niro EV Wind+",
-      "condition": "new"
+      "model": "Niro EV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | Fully Electric | Navigation",
       "vin": "KNDCR3L12T5158274",
       "stock": "KT26-43",
       "color": "White",
+      "trim": "Wind+",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/4004f0ec5eb5.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/70354393/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/70354393/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -444,14 +520,17 @@
       "odometer_km": 28,
       "year": 2026,
       "make": "Kia",
-      "model": "Niro EV Wind+",
-      "condition": "new"
+      "model": "Niro EV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | Fully Electric | Navigation",
       "vin": "KNDCR3L17T5158285",
       "stock": "KT26-43",
       "color": "White",
+      "trim": "Wind+",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/faa8f2d9230c.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/70354395/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/70354395/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -461,14 +540,17 @@
       "odometer_km": 22,
       "year": 2026,
       "make": "Kia",
-      "model": "Niro EV Wind+",
-      "condition": "new"
+      "model": "Niro EV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | Fully Electric | Navigation",
       "vin": "KNDCR3L17T5158321",
       "stock": "KT26-43",
       "color": "Grey",
+      "trim": "Wind+",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/e43a4263d33b.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/70354396/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/70354396/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -478,14 +560,17 @@
       "odometer_km": 29,
       "year": 2026,
       "make": "Kia",
-      "model": "Niro EV Wind+",
-      "condition": "new"
+      "model": "Niro EV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | Fully Electric | Navigation",
       "vin": "KNDCR3L11T5160985",
       "stock": "KT26-44",
       "color": "Grey",
+      "trim": "Wind+",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/1017853b9d17.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/70420628/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/70420628/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -495,14 +580,17 @@
       "odometer_km": 22,
       "year": 2026,
       "make": "Kia",
-      "model": "Niro EV Wind+",
-      "condition": "new"
+      "model": "Niro EV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | Fully Electric | Navigation",
       "vin": "KNDCR3L15T5161119",
       "stock": "KT26-44",
       "color": "Black",
+      "trim": "Wind+",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/8ca42938b267.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/70422082/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/70422082/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -512,14 +600,17 @@
       "odometer_km": 22,
       "year": 2026,
       "make": "Kia",
-      "model": "Niro EV Wind+",
-      "condition": "new"
+      "model": "Niro EV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | Fully Electric | Navigation",
       "vin": "KNDCR3L15T5160293",
       "stock": "KT26-45",
       "color": "Black",
+      "trim": "Wind+",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/0c8303bffdd6.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/70483892/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/70483892/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -529,14 +620,17 @@
       "odometer_km": 21,
       "year": 2026,
       "make": "Kia",
-      "model": "Niro EV Wind+",
-      "condition": "new"
+      "model": "Niro EV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | Fully Electric | Navigation",
       "vin": "KNDCR3L16T5160268",
       "stock": "KT26-45",
       "color": "Grey",
+      "trim": "Wind+",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/9ccc5b8cdd07.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/70485386/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/70485386/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -546,14 +640,17 @@
       "odometer_km": 33,
       "year": 2026,
       "make": "Kia",
-      "model": "Niro EV Wind+",
-      "condition": "new"
+      "model": "Niro EV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wave | Ventilated Seats | Sunroof",
       "vin": "KNDCT3L19T5160721",
       "stock": "KT26-45",
       "color": "Grey",
+      "trim": "Wave",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/b9d0e23f6bf3.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/70485387/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/70485387/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -563,14 +660,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Kia",
-      "model": "Niro EV Wave",
-      "condition": "new"
+      "model": "Niro EV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wave | Ventilated Seats | Sunroof",
       "vin": "KNDCT3L11T5160745",
       "stock": "KT26-46",
       "color": "Black",
+      "trim": "Wave",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/3c4a8aa22f15.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/70485388/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/70485388/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -580,14 +680,17 @@
       "odometer_km": 21,
       "year": 2026,
       "make": "Kia",
-      "model": "Niro EV Wave",
-      "condition": "new"
+      "model": "Niro EV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | Fully Electric | Navigation",
       "vin": "KNDCR3L17T5160358",
       "stock": "KT26-45",
       "color": "Green",
+      "trim": "Wind+",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/debf94dfdc66.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/70485390/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/70485390/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -597,14 +700,17 @@
       "odometer_km": 25,
       "year": 2026,
       "make": "Kia",
-      "model": "Niro EV Wind+",
-      "condition": "new"
+      "model": "Niro EV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | Fully Electric | Navigation",
       "vin": "KNDCR3L17T5160103",
       "stock": "KT26-45",
       "color": "Red",
+      "trim": "Wind+",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/6786c3643edb.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/70485391/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/70485391/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -614,14 +720,17 @@
       "odometer_km": 33,
       "year": 2026,
       "make": "Kia",
-      "model": "Niro EV Wind+",
-      "condition": "new"
+      "model": "Niro EV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | Fully Electric | Navigation",
       "vin": "KNDCR3L19T5160264",
       "stock": "KT26-45",
       "color": "Grey",
+      "trim": "Wind+",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/00d3580ecaeb.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/70485394/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/70485394/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -631,14 +740,17 @@
       "odometer_km": 21,
       "year": 2026,
       "make": "Kia",
-      "model": "Niro EV Wind+",
-      "condition": "new"
+      "model": "Niro EV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | Fully Electric | Navigation",
       "vin": "KNDCR3L1XT5160368",
       "stock": "KT26-45",
       "color": "White",
+      "trim": "Wind+",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/2ff56739552b.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/70485395/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/70485395/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -648,14 +760,17 @@
       "odometer_km": 21,
       "year": 2026,
       "make": "Kia",
-      "model": "Niro EV Wind+",
-      "condition": "new"
+      "model": "Niro EV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | Fully Electric | Navigation",
       "vin": "KNDCR3L18T5161440",
       "stock": "KT26-46",
       "color": "Grey",
+      "trim": "Wind+",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/664ac11ea5cb.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/70563914/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/70563914/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -665,14 +780,17 @@
       "odometer_km": 25,
       "year": 2026,
       "make": "Kia",
-      "model": "Niro EV Wind+",
-      "condition": "new"
+      "model": "Niro EV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | Fully Electric | Navigation",
       "vin": "KNDCR3L14T5161385",
       "stock": "KT26-46",
       "color": "White",
+      "trim": "Wind+",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/0641f29e5309.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/70563915/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/70563915/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -682,14 +800,17 @@
       "odometer_km": 22,
       "year": 2026,
       "make": "Kia",
-      "model": "Niro EV Wind+",
-      "condition": "new"
+      "model": "Niro EV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | Fully Electric | Navigation",
       "vin": "KNDCR3L14T5161371",
       "stock": "KT26-46",
       "color": "Blue",
+      "trim": "Wind+",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/42ed5582b8d6.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/70563916/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/70563916/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -699,14 +820,17 @@
       "odometer_km": 21,
       "year": 2026,
       "make": "Kia",
-      "model": "Niro EV Wind+",
-      "condition": "new"
+      "model": "Niro EV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | Fully Electric | Navigation",
       "vin": "KNDCR3L12T5161448",
       "stock": "KT26-46",
       "color": "Grey",
+      "trim": "Wind+",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/d136cf8a5579.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/70563918/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/70563918/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -716,14 +840,17 @@
       "odometer_km": 21,
       "year": 2026,
       "make": "Kia",
-      "model": "Niro EV Wind+",
-      "condition": "new"
+      "model": "Niro EV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind | Navigation | Remote Start",
       "vin": "KNDCP3L18T5161847",
       "stock": "KT26-50",
       "color": "Green",
+      "trim": "Wind",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/d02c55bca3cf.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/71071821/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/71071821/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -733,14 +860,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Kia",
-      "model": "Niro EV Wind",
-      "condition": "new"
+      "model": "Niro EV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wave | Navigation | Heated Seats",
       "vin": "KNDCT3L12T5162200",
       "stock": "KT26-50",
       "color": "Grey",
+      "trim": "Wave",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/d1c1e5ed2efe.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/71176047/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/71176047/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -750,14 +880,17 @@
       "odometer_km": 20,
       "year": 2026,
       "make": "Kia",
-      "model": "Niro EV Wave",
-      "condition": "new"
+      "model": "Niro EV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind | Navigation | Remote Start",
       "vin": "KNDCP3L18T5162027",
       "stock": "KT26-50",
       "color": "Black",
+      "trim": "Wind",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/94c2d097186b.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/71176050/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/71176050/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -767,14 +900,17 @@
       "odometer_km": 33,
       "year": 2026,
       "make": "Kia",
-      "model": "Niro EV Wind",
-      "condition": "new"
+      "model": "Niro EV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind | Navigation | Remote Start",
       "vin": "KNDCP3L11T5161835",
       "stock": "TR26-51",
       "color": "White",
+      "trim": "Wind",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/427df5011834.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/71300513/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/71300513/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -784,14 +920,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Kia",
-      "model": "Niro EV Wind",
-      "condition": "new"
+      "model": "Niro EV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wave | Navigation | Heated Seats",
       "vin": "KNDCT3L14T5162750",
       "stock": "TR26-50",
       "color": "White",
+      "trim": "Wave",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/5878597c583e.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/71300514/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/71300514/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -801,14 +940,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Kia",
-      "model": "Niro EV Wave",
-      "condition": "new"
+      "model": "Niro EV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wave | Navigation | Heated Seats",
       "vin": "KNDCT3L12T5162651",
       "stock": "TR26-50",
       "color": "Blue",
+      "trim": "Wave",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/69f425f9c7ad.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/71300516/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/71300516/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -818,14 +960,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Kia",
-      "model": "Niro EV Wave",
-      "condition": "new"
+      "model": "Niro EV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wave | Navigation | Heated Seats",
       "vin": "KNDCT3L15T5162868",
       "stock": "TR26-51",
       "color": "Grey",
+      "trim": "Wave",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/55863571eac9.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/71367923/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/71367923/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -835,14 +980,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Kia",
-      "model": "Niro EV Wave",
-      "condition": "new"
+      "model": "Niro EV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wave | Navigation | Heated Seats",
       "vin": "KNDCT3L13T5162917",
       "stock": "TR26-51",
       "color": "Green",
+      "trim": "Wave",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/a3f376826fa2.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/71369631/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/niro-ev/nanaimo/bc/71369631/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -852,14 +1000,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Kia",
-      "model": "Niro EV Wave",
-      "condition": "new"
+      "model": "Niro EV",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Hybrid LX AWD | 6-Passenger | Forward Collision Avoidance",
       "vin": "KNDRFDJG7T5496110",
       "stock": "KT26-31",
       "color": "Blue",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/f87e41c8d485.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/sorento-hybrid/nanaimo/bc/69695039/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/sorento-hybrid/nanaimo/bc/69695039/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -869,14 +1020,17 @@
       "odometer_km": 25,
       "year": 2026,
       "make": "Kia",
-      "model": "Sorento Hybrid LX AWD",
-      "condition": "new"
+      "model": "Sorento Hybrid",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Hybrid EX AWD | Collision Avoidance | 6-Passenger",
       "vin": "KNDRGDJG0T5515173",
       "stock": "KT26-42",
       "color": "Brown",
+      "trim": "EX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/407cf66fbe5d.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/sorento-hybrid/nanaimo/bc/70309669/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/sorento-hybrid/nanaimo/bc/70309669/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -886,14 +1040,17 @@
       "odometer_km": 23,
       "year": 2026,
       "make": "Kia",
-      "model": "Sorento Hybrid EX AWD",
-      "condition": "new"
+      "model": "Sorento Hybrid",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Hybrid SX AWD | Panoramic Sunroof | Bose Sound",
       "vin": "KNDRHDJG2T5527497",
       "stock": "KT26-44",
       "color": "Black",
+      "trim": "SX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/a0d4ac122edd.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/sorento-hybrid/nanaimo/bc/70420625/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/sorento-hybrid/nanaimo/bc/70420625/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -903,14 +1060,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Kia",
-      "model": "Sorento Hybrid SX AWD",
-      "condition": "new"
+      "model": "Sorento Hybrid",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Hybrid EX AWD | Collision Avoidance | 6-Passenger",
       "vin": "KNDRGDJG3T5531108",
       "stock": "KT26-44",
       "color": "Grey",
+      "trim": "EX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/b28dc74ceab0.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/sorento-hybrid/nanaimo/bc/70420627/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/sorento-hybrid/nanaimo/bc/70420627/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -920,14 +1080,17 @@
       "odometer_km": 22,
       "year": 2026,
       "make": "Kia",
-      "model": "Sorento Hybrid EX AWD",
-      "condition": "new"
+      "model": "Sorento Hybrid",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Hybrid LX AWD | 6-Passenger | Forward Collision Avoidance",
       "vin": "KNDRFDJG7T5530868",
       "stock": "KT26-48",
       "color": "Black",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/2e311f522102.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/sorento-hybrid/nanaimo/bc/70678968/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/sorento-hybrid/nanaimo/bc/70678968/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -937,14 +1100,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Kia",
-      "model": "Sorento Hybrid LX AWD",
-      "condition": "new"
+      "model": "Sorento Hybrid",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Hybrid EX AWD | Collision Avoidance | 6-Passenger",
       "vin": "KNDRGDJG1T5545749",
       "stock": "KT26-49",
       "color": "Black",
+      "trim": "EX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/ada73457d4a0.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/sorento-hybrid/nanaimo/bc/70736991/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/sorento-hybrid/nanaimo/bc/70736991/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -954,14 +1120,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Kia",
-      "model": "Sorento Hybrid EX AWD",
-      "condition": "new"
+      "model": "Sorento Hybrid",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Hybrid SX AWD | Panoramic Sunroof | Bose Sound",
       "vin": "KNDRHDJG8T5552369",
       "stock": "KT26-50",
       "color": "Black",
+      "trim": "SX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/4f965e0cfbc4.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/sorento-hybrid/nanaimo/bc/70978151/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/sorento-hybrid/nanaimo/bc/70978151/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -971,14 +1140,17 @@
       "odometer_km": 26,
       "year": 2026,
       "make": "Kia",
-      "model": "Sorento Hybrid SX AWD",
-      "condition": "new"
+      "model": "Sorento Hybrid",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Hybrid EX AWD | Collision Avoidance | 6-Passenger",
       "vin": "KNDRGDJG6T5567648",
       "stock": "TR26-51",
       "color": "Brown",
+      "trim": "EX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/69d330f83c16.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/sorento-hybrid/nanaimo/bc/71367921/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/sorento-hybrid/nanaimo/bc/71367921/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -988,14 +1160,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Kia",
-      "model": "Sorento Hybrid EX AWD",
-      "condition": "new"
+      "model": "Sorento Hybrid",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Hybrid EX AWD | Collision Avoidance | 6-Passenger",
       "vin": "KNDRGDJG2T5567856",
       "stock": "TR26-51",
       "color": "Grey",
+      "trim": "EX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/5d8f0e666d8b.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/sorento-hybrid/nanaimo/bc/71367922/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/sorento-hybrid/nanaimo/bc/71367922/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1005,14 +1180,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Kia",
-      "model": "Sorento Hybrid EX AWD",
-      "condition": "new"
+      "model": "Sorento Hybrid",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Plug-In Hybrid LX AWD | 6-Passenger | Back-Up Camera",
       "vin": "KNDRKDJH3T5508502",
       "stock": "KT26-38",
       "color": "Black",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/28f8ea4a1035.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/sorento-plug-in-hybrid/nanaimo/bc/70092488/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/sorento-plug-in-hybrid/nanaimo/bc/70092488/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1022,14 +1200,17 @@
       "odometer_km": 29,
       "year": 2026,
       "make": "Kia",
-      "model": "Sorento Plug-In Hybrid LX AWD",
-      "condition": "new"
+      "model": "Sorento Plug-In Hybrid",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Plug-In Hybrid LX AWD | 6-Passenger | Back-Up Camera",
       "vin": "KNDRKDJH9T5527863",
       "stock": "KT26-48",
       "color": "Black",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/6528b0e5fa30.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/sorento-plug-in-hybrid/nanaimo/bc/70615312/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/sorento-plug-in-hybrid/nanaimo/bc/70615312/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1039,14 +1220,17 @@
       "odometer_km": 25,
       "year": 2026,
       "make": "Kia",
-      "model": "Sorento Plug-In Hybrid LX AWD",
-      "condition": "new"
+      "model": "Sorento Plug-In Hybrid",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage Hybrid EX AWD | Navigation | Leatherette Seats",
       "vin": "KNDPVDDG0T7381102",
       "stock": "KT26-34",
       "color": "Grey",
+      "trim": "EX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/a9edee176481.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/sportage-hybrid/nanaimo/bc/69897182/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/sportage-hybrid/nanaimo/bc/69897182/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1056,14 +1240,17 @@
       "odometer_km": 10000,
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage Hybrid EX AWD",
-      "condition": "new"
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage Hybrid EX AWD | Navigation | Leatherette Seats",
       "vin": "KNDPVDDGXT7379793",
       "stock": "KT26-34",
       "color": "Black",
+      "trim": "EX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/6a5605670407.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/sportage-hybrid/nanaimo/bc/69897184/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/sportage-hybrid/nanaimo/bc/69897184/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1073,14 +1260,17 @@
       "odometer_km": 22,
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage Hybrid EX AWD",
-      "condition": "new"
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage Hybrid SX AWD | Navigation | Premium Audio",
       "vin": "KNDPXDDG0T7395625",
       "stock": "KT26-37",
       "color": "White",
+      "trim": "SX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/a17ed61ba831.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/sportage-hybrid/nanaimo/bc/70041226/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/sportage-hybrid/nanaimo/bc/70041226/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1090,14 +1280,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage Hybrid SX AWD",
-      "condition": "new"
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage Hybrid EX AWD | Navigation | Leatherette Seats",
       "vin": "KNDPVDDG5T7327231",
       "stock": "KT26-23",
       "color": "Grey",
+      "trim": "EX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/86475ae23d98.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/sportage-hybrid/nanaimo/bc/70878027/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/sportage-hybrid/nanaimo/bc/70878027/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1107,14 +1300,17 @@
       "odometer_km": 1018,
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage Hybrid EX AWD",
-      "condition": "new"
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage EX AWD | Parking Sensors | Navigation",
       "vin": "KNDPVCDF2T7452740",
       "stock": "KT26-14",
       "color": "Grey",
+      "trim": "EX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/ef647257f4eb.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/sportage/nanaimo/bc/68019048/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/sportage/nanaimo/bc/68019048/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1124,14 +1320,17 @@
       "odometer_km": 4780,
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage EX AWD",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage LX AWD | Push Button Start | Parking Sensors",
       "vin": "KNDPUCDF5T7486772",
       "stock": "KT26-25",
       "color": "White",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/3eeac7be8ee5.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/sportage/nanaimo/bc/69188258/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/sportage/nanaimo/bc/69188258/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1141,14 +1340,17 @@
       "odometer_km": 6225,
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage LX AWD",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage LX AWD | Push Button Start | Parking Sensors",
       "vin": "KNDPUCDF6T7493794",
       "stock": "KT26-27",
       "color": "Grey",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/68fa5bdda2a0.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/sportage/nanaimo/bc/69316581/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/sportage/nanaimo/bc/69316581/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1158,14 +1360,17 @@
       "odometer_km": 3104,
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage LX AWD",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage LX AWD | Push Button Start | Pink Wrap!",
       "vin": "KNDPUCDF4T7493194",
       "stock": "KT26-30",
       "color": "Black",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/02a0630b549d.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/sportage/nanaimo/bc/69680153/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/sportage/nanaimo/bc/69680153/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1175,14 +1380,17 @@
       "odometer_km": 109,
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage LX AWD",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage EX AWD | Parking Sensors | Navigation",
       "vin": "KNDPVCDF0T7501045",
       "stock": "KT26-31",
       "color": "Black",
+      "trim": "EX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/391748a2bf72.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/sportage/nanaimo/bc/69699306/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/sportage/nanaimo/bc/69699306/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1192,14 +1400,17 @@
       "odometer_km": 2920,
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage EX AWD",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage EX AWD | Parking Sensors | Navigation",
       "vin": "KNDPVCDF8T7504016",
       "stock": "KT26-33",
       "color": "Black",
+      "trim": "EX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/9735cce187db.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/sportage/nanaimo/bc/69855244/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/sportage/nanaimo/bc/69855244/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1209,14 +1420,17 @@
       "odometer_km": 4907,
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage EX AWD",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage EX Premium AWD | Heated Seats | Navigation",
       "vin": "KNDPVCDF4T7508905",
       "stock": "TR26-34",
       "color": "Blue",
+      "trim": "EX Premium",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/e51e8a283d83.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/sportage/nanaimo/bc/69897186/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/sportage/nanaimo/bc/69897186/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1226,14 +1440,17 @@
       "odometer_km": 0,
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage EX Premium AWD",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-Line Limited AWD | Panoramic Sunroof | Parking S",
       "vin": "KNDPXCDF1T7509858",
       "stock": "KT26-37",
       "color": "White",
+      "trim": "X-Line Limited",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/c0c0eebc311d.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/sportage/nanaimo/bc/70041229/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/sportage/nanaimo/bc/70041229/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1243,14 +1460,17 @@
       "odometer_km": 22,
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage X-Line Limited AWD",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage EX Premium AWD | Heated Seats | Navigation",
       "vin": "KNDPVCDF9T7509967",
       "stock": "KT26-36",
       "color": "White",
+      "trim": "EX Premium",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/a864549b33d7.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/sportage/nanaimo/bc/70041230/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/sportage/nanaimo/bc/70041230/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1260,14 +1480,17 @@
       "odometer_km": 1709,
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage EX Premium AWD",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage LX | Push Button Start | Back-Up Camera",
       "vin": "KNDPU3DF6T7515423",
       "stock": "KT26-40",
       "color": "Grey",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/d55f100afca1.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/sportage/nanaimo/bc/70225438/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/sportage/nanaimo/bc/70225438/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1277,14 +1500,17 @@
       "odometer_km": 30,
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage LX",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage EX AWD | Parking Sensors | Navigation",
       "vin": "KNDPVCDF5T7518777",
       "stock": "KT26-40",
       "color": "Black",
+      "trim": "EX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/2633df59be65.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/sportage/nanaimo/bc/70225441/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/sportage/nanaimo/bc/70225441/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1294,14 +1520,17 @@
       "odometer_km": 513,
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage EX AWD",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage LX AWD | Push Button Start | Parking Sensors",
       "vin": "KNDPUCDF0T7506555",
       "stock": "KT26-40",
       "color": "Grey",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/944996486489.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/sportage/nanaimo/bc/70225445/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/sportage/nanaimo/bc/70225445/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1311,14 +1540,17 @@
       "odometer_km": 27,
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage LX AWD",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-Line Limited AWD | Panoramic Sunroof | Parking S",
       "vin": "KNDPXCDF7T7527300",
       "stock": "KT26-47",
       "color": "Blue",
+      "trim": "X-Line Limited",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/0c8973b36d48.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/sportage/nanaimo/bc/70576916/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/sportage/nanaimo/bc/70576916/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1328,14 +1560,17 @@
       "odometer_km": 1954,
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage X-Line Limited AWD",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-Line Limited AWD | Panoramic Sunroof | Parking S",
       "vin": "KNDPXCDF8T7526799",
       "stock": "KT26-47",
       "color": "Black",
+      "trim": "X-Line Limited",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/69af667a84dc.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/sportage/nanaimo/bc/70576917/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/sportage/nanaimo/bc/70576917/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1345,14 +1580,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage X-Line Limited AWD",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-Line AWD | Leatherette Seats | Back-Up Camera",
       "vin": "KNDPUCDF2T7527536",
       "stock": "KT26-47",
       "color": "Black",
+      "trim": "X-Line",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/e3fcb772b8fe.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/sportage/nanaimo/bc/70576920/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/sportage/nanaimo/bc/70576920/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1362,14 +1600,17 @@
       "odometer_km": 100,
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage X-Line AWD",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage LX AWD | Push Button Start | Parking Sensors",
       "vin": "KNDPUCDF6T7528074",
       "stock": "KT26-47",
       "color": "Grey",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/c77388a626d0.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/sportage/nanaimo/bc/70576921/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/sportage/nanaimo/bc/70576921/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1379,14 +1620,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage LX AWD",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-Line Limited AWD | Panoramic Sunroof | Parking S",
       "vin": "KNDPXCDF7T7527054",
       "stock": "KT26-47",
       "color": "Grey",
+      "trim": "X-Line Limited",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/23e829fb04c6.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/sportage/nanaimo/bc/70576923/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/sportage/nanaimo/bc/70576923/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1396,14 +1640,17 @@
       "odometer_km": 80,
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage X-Line Limited AWD",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage EX Premium AWD | Heated Seats | Navigation",
       "vin": "KNDPVCDF3T7530538",
       "stock": "KT26-48",
       "color": "Blue",
+      "trim": "EX Premium",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/385a24a37665.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/sportage/nanaimo/bc/70696690/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/sportage/nanaimo/bc/70696690/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1413,14 +1660,17 @@
       "odometer_km": 23,
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage EX Premium AWD",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-Line Limited AWD | Panoramic Sunroof | Parking S",
       "vin": "KNDPXCDF1T7530807",
       "stock": "KT26-49",
       "color": "Green",
+      "trim": "X-Line Limited",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/293d872219f0.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/sportage/nanaimo/bc/70704403/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/sportage/nanaimo/bc/70704403/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1430,14 +1680,17 @@
       "odometer_km": 20,
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage X-Line Limited AWD",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage EX Premium AWD | Heated Seats | Navigation",
       "vin": "KNDPVCDF0T7530044",
       "stock": "KT26-48",
       "color": "White",
+      "trim": "EX Premium",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/cb17b7565a17.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/sportage/nanaimo/bc/70704404/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/sportage/nanaimo/bc/70704404/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1447,14 +1700,17 @@
       "odometer_km": 22,
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage EX Premium AWD",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-Line Limited AWD | Panoramic Sunroof | Parking S",
       "vin": "KNDPXCDF8T7534577",
       "stock": "KT26-49",
       "color": "Grey",
+      "trim": "X-Line Limited",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/c6d89b274346.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/sportage/nanaimo/bc/70736987/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/sportage/nanaimo/bc/70736987/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1464,14 +1720,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage X-Line Limited AWD",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-Line Limited AWD | Panoramic Sunroof | Parking S",
       "vin": "KNDPXCDF5T7534701",
       "stock": "KT26-49",
       "color": "White",
+      "trim": "X-Line Limited",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/b15db5c24c00.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/sportage/nanaimo/bc/70772427/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/sportage/nanaimo/bc/70772427/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1481,14 +1740,17 @@
       "odometer_km": 26,
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage X-Line Limited AWD",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage EX AWD | Parking Sensors | Navigation",
       "vin": "KNDPVCDF9T7541558",
       "stock": "KT26-50",
       "color": "Grey",
+      "trim": "EX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/77ad821bd61f.html",
       "source_url": "https://www.harriskia.ca/vehicles/2026/kia/sportage/nanaimo/bc/71156105/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2026/kia/sportage/nanaimo/bc/71156105/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1498,14 +1760,17 @@
       "odometer_km": 26,
       "year": 2026,
       "make": "Kia",
-      "model": "Sportage EX AWD",
-      "condition": "new"
+      "model": "Sportage",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Carnival Hybrid LX+ | 8-Passenger | Power Liftgate",
       "vin": "KNDNB5KA5V6215493",
       "stock": "KT27-70",
       "color": "White",
+      "trim": "LX+",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/eacc48e099d5.html",
       "source_url": "https://www.harriskia.ca/vehicles/2027/kia/carnival-hybrid/nanaimo/bc/71107493/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2027/kia/carnival-hybrid/nanaimo/bc/71107493/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1515,14 +1780,17 @@
       "odometer_km": 22,
       "year": 2027,
       "make": "Kia",
-      "model": "Carnival Hybrid LX+",
-      "condition": "new"
+      "model": "Carnival Hybrid",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Carnival Hybrid EX | 8-Passenger | Navigation",
       "vin": "KNDNC5KAXV6215258",
       "stock": "KT27-71",
       "color": "Grey",
+      "trim": "EX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/f43142aab41d.html",
       "source_url": "https://www.harriskia.ca/vehicles/2027/kia/carnival-hybrid/nanaimo/bc/71107495/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2027/kia/carnival-hybrid/nanaimo/bc/71107495/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1532,14 +1800,17 @@
       "odometer_km": 21,
       "year": 2027,
       "make": "Kia",
-      "model": "Carnival Hybrid EX",
-      "condition": "new"
+      "model": "Carnival Hybrid",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Carnival Hybrid LX+ | 8-Passenger | Power Liftgate",
       "vin": "KNDNB5KA7V6223367",
       "stock": "TR27-95",
       "color": "White",
+      "trim": "LX+",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/6cb7ee8e770d.html",
       "source_url": "https://www.harriskia.ca/vehicles/2027/kia/carnival-hybrid/nanaimo/bc/71300512/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2027/kia/carnival-hybrid/nanaimo/bc/71300512/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1549,14 +1820,17 @@
       "odometer_km": 0,
       "year": 2027,
       "make": "Kia",
-      "model": "Carnival Hybrid LX+",
-      "condition": "new"
+      "model": "Carnival Hybrid",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Carnival SX+ 7-Passenger | Sunroof | Leather Seats",
       "vin": "KNDNE5K31V6658569",
       "stock": "KT27-33",
       "color": "White",
+      "trim": "SX+ 7-Passenger",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/cbea3327adb9.html",
       "source_url": "https://www.harriskia.ca/vehicles/2027/kia/carnival/nanaimo/bc/70704406/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2027/kia/carnival/nanaimo/bc/70704406/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1566,14 +1840,17 @@
       "odometer_km": 28,
       "year": 2027,
       "make": "Kia",
-      "model": "Carnival SX+ 7-Passenger",
-      "condition": "new"
+      "model": "Carnival",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Carnival LX | Parking Assist | Navigation",
       "vin": "KNDNB5K30V6659074",
       "stock": "KT27-42",
       "color": "White",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/08e264ab0772.html",
       "source_url": "https://www.harriskia.ca/vehicles/2027/kia/carnival/nanaimo/bc/70858329/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2027/kia/carnival/nanaimo/bc/70858329/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1583,14 +1860,17 @@
       "odometer_km": 20,
       "year": 2027,
       "make": "Kia",
-      "model": "Carnival LX",
-      "condition": "new"
+      "model": "Carnival",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Carnival SX 8-Passenger | Parking Sensors | Leather Seats",
       "vin": "KNDNE5K37V6672606",
       "stock": "TR27-93",
       "color": "Red",
+      "trim": "SX 8-Passenger",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/e8bdb3cbdc94.html",
       "source_url": "https://www.harriskia.ca/vehicles/2027/kia/carnival/nanaimo/bc/71300509/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2027/kia/carnival/nanaimo/bc/71300509/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1600,14 +1880,17 @@
       "odometer_km": 0,
       "year": 2027,
       "make": "Kia",
-      "model": "Carnival SX 8-Passenger",
-      "condition": "new"
+      "model": "Carnival",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Carnival EX+ | Navigation | Parking Sensors",
       "vin": "KNDNC5K3XV6672346",
       "stock": "TR27-92",
       "color": "Red",
+      "trim": "EX+",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/5142e70c1a05.html",
       "source_url": "https://www.harriskia.ca/vehicles/2027/kia/carnival/nanaimo/bc/71300511/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2027/kia/carnival/nanaimo/bc/71300511/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1617,14 +1900,17 @@
       "odometer_km": 0,
       "year": 2027,
       "make": "Kia",
-      "model": "Carnival EX+",
-      "condition": "new"
+      "model": "Carnival",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Carnival LX+ | 8-Passenger | Power Liftgate",
       "vin": "KNDNB5K35V6672161",
       "stock": "TR27-91",
       "color": "White",
+      "trim": "LX+",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/eacf0a1750d7.html",
       "source_url": "https://www.harriskia.ca/vehicles/2027/kia/carnival/nanaimo/bc/71300515/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2027/kia/carnival/nanaimo/bc/71300515/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1634,14 +1920,17 @@
       "odometer_km": 0,
       "year": 2027,
       "make": "Kia",
-      "model": "Carnival LX+",
-      "condition": "new"
+      "model": "Carnival",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Kia EV3 Wind AWD | Navigation | Apple CarPlay",
       "vin": "3KMDBDDC0VE004813",
       "stock": "TR27-90",
       "color": "Blue",
+      "trim": "Wind",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/2a1631b8328d.html",
       "source_url": "https://www.harriskia.ca/vehicles/2027/kia/ev3/nanaimo/bc/71300517/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2027/kia/ev3/nanaimo/bc/71300517/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1651,14 +1940,17 @@
       "odometer_km": 0,
       "year": 2027,
       "make": "Kia",
-      "model": "EV3 Wind AWD",
-      "condition": "new"
+      "model": "EV3",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Kia EV4 GT-Line | Navigation | Collision Avoidance",
       "vin": "KNAD54D30V6023374",
       "stock": "K27-01",
       "color": "Grey",
+      "trim": "GT-Line",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/08bb54dc902a.html",
       "source_url": "https://www.harriskia.ca/vehicles/2027/kia/ev4/nanaimo/bc/71164257/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2027/kia/ev4/nanaimo/bc/71164257/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1668,14 +1960,17 @@
       "odometer_km": 23,
       "year": 2027,
       "make": "Kia",
-      "model": "EV4 GT-Line",
-      "condition": "new"
+      "model": "EV4",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Kia EV4 Wind AWD | Navigation | Back-Up Camera",
       "vin": "KNAD24D59V6024128",
       "stock": "TR27-02",
       "color": "Grey",
+      "trim": "Wind",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/f798a1edc4ee.html",
       "source_url": "https://www.harriskia.ca/vehicles/2027/kia/ev4/nanaimo/bc/71369626/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2027/kia/ev4/nanaimo/bc/71369626/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1685,14 +1980,17 @@
       "odometer_km": 0,
       "year": 2027,
       "make": "Kia",
-      "model": "EV4 Wind AWD",
-      "condition": "new"
+      "model": "EV4",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Kia EV5 GT-Line AWD | Leatherette Seats | Panoramic Sunroo",
       "vin": "KNDH5DDE4V7060024",
       "stock": "TR27-10",
       "color": "Blue",
+      "trim": "GT-Line",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/ec47676b3c70.html",
       "source_url": "https://www.harriskia.ca/vehicles/2027/kia/ev5/nanaimo/bc/71369625/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2027/kia/ev5/nanaimo/bc/71369625/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1702,14 +2000,17 @@
       "odometer_km": 0,
       "year": 2027,
       "make": "Kia",
-      "model": "EV5 GT-Line AWD",
-      "condition": "new"
+      "model": "EV5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Kia EV5 GT-Line | Leatherette Seats | Panoramic Sunroof",
       "vin": "KNDH54DA2V7058964",
       "stock": "TR27-10",
       "color": "Black",
+      "trim": "GT-Line",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/7e207769ddbf.html",
       "source_url": "https://www.harriskia.ca/vehicles/2027/kia/ev5/nanaimo/bc/71369627/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2027/kia/ev5/nanaimo/bc/71369627/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1719,14 +2020,17 @@
       "odometer_km": 0,
       "year": 2027,
       "make": "Kia",
-      "model": "EV5 GT-Line",
-      "condition": "new"
+      "model": "EV5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Kia EV5 GT-Line AWD | Leatherette Seats | Panoramic Sunroo",
       "vin": "KNDH5DDEXV7060092",
       "stock": "TR27-10",
       "color": "Green",
+      "trim": "GT-Line",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/dca2e236a82f.html",
       "source_url": "https://www.harriskia.ca/vehicles/2027/kia/ev5/nanaimo/bc/71369628/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2027/kia/ev5/nanaimo/bc/71369628/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1736,14 +2040,17 @@
       "odometer_km": 0,
       "year": 2027,
       "make": "Kia",
-      "model": "EV5 GT-Line AWD",
-      "condition": "new"
+      "model": "EV5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Kia EV5 GT-Line | Leatherette Seats | Panoramic Sunroof",
       "vin": "KNDH54DA0V7059322",
       "stock": "TR27-10",
       "color": "Grey",
+      "trim": "GT-Line",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/f7d110f84116.html",
       "source_url": "https://www.harriskia.ca/vehicles/2027/kia/ev5/nanaimo/bc/71369630/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2027/kia/ev5/nanaimo/bc/71369630/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1753,14 +2060,17 @@
       "odometer_km": 0,
       "year": 2027,
       "make": "Kia",
-      "model": "EV5 GT-Line",
-      "condition": "new"
+      "model": "EV5",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX FWD | Remote Start | Lane Keep Assist",
       "vin": "KNDEB3D37V7017561",
       "stock": "KT27-16",
       "color": "Silver",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/eb66eba11237.html",
       "source_url": "https://www.harriskia.ca/vehicles/2027/kia/seltos/nanaimo/bc/70615311/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2027/kia/seltos/nanaimo/bc/70615311/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1770,14 +2080,17 @@
       "odometer_km": 26,
       "year": 2027,
       "make": "Kia",
-      "model": "Seltos LX FWD",
-      "condition": "new"
+      "model": "Seltos",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos EX Premium AWD | Ventilated Seats | Panoramic Sunr",
       "vin": "KNDECCD31V7039620",
       "stock": "KT27-40",
       "color": "Brown",
+      "trim": "EX Premium",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/70dbea96f2c9.html",
       "source_url": "https://www.harriskia.ca/vehicles/2027/kia/seltos/nanaimo/bc/70770991/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2027/kia/seltos/nanaimo/bc/70770991/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1787,14 +2100,17 @@
       "odometer_km": 20,
       "year": 2027,
       "make": "Kia",
-      "model": "Seltos EX Premium AWD",
-      "condition": "new"
+      "model": "Seltos",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos EX Premium AWD | Ventilated Seats | Panoramic Sunr",
       "vin": "KNDECCD37V7041419",
       "stock": "KT27-39",
       "color": "Silver",
+      "trim": "EX Premium",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/b497ffc76b8a.html",
       "source_url": "https://www.harriskia.ca/vehicles/2027/kia/seltos/nanaimo/bc/70770994/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2027/kia/seltos/nanaimo/bc/70770994/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1804,14 +2120,17 @@
       "odometer_km": 20,
       "year": 2027,
       "make": "Kia",
-      "model": "Seltos EX Premium AWD",
-      "condition": "new"
+      "model": "Seltos",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos X-Line AWD | Panoramic Sunroof | Ventilated Seats",
       "vin": "KNDEECD73V7032648",
       "stock": "KT27-45",
       "color": "Silver",
+      "trim": "X-Line",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/033be066697d.html",
       "source_url": "https://www.harriskia.ca/vehicles/2027/kia/seltos/nanaimo/bc/70858330/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2027/kia/seltos/nanaimo/bc/70858330/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1821,14 +2140,17 @@
       "odometer_km": 21,
       "year": 2027,
       "make": "Kia",
-      "model": "Seltos X-Line AWD",
-      "condition": "new"
+      "model": "Seltos",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos EX AWD | Panoramic Sunroof | Remote Start",
       "vin": "KNDECCD31V5018116",
       "stock": "KT27-56",
       "color": "Grey",
+      "trim": "EX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/260d4933211f.html",
       "source_url": "https://www.harriskia.ca/vehicles/2027/kia/seltos/nanaimo/bc/71016495/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2027/kia/seltos/nanaimo/bc/71016495/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1838,14 +2160,17 @@
       "odometer_km": 23,
       "year": 2027,
       "make": "Kia",
-      "model": "Seltos EX AWD",
-      "condition": "new"
+      "model": "Seltos",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos EX AWD | Panoramic Sunroof | Remote Start",
       "vin": "KNDECCD30V5019046",
       "stock": "KT27-55",
       "color": "White",
+      "trim": "EX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/bb89b5fabbae.html",
       "source_url": "https://www.harriskia.ca/vehicles/2027/kia/seltos/nanaimo/bc/71016497/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2027/kia/seltos/nanaimo/bc/71016497/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1855,14 +2180,17 @@
       "odometer_km": 32,
       "year": 2027,
       "make": "Kia",
-      "model": "Seltos EX AWD",
-      "condition": "new"
+      "model": "Seltos",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX AWD | Remote Start | Lane Keep Assist",
       "vin": "KNDEBCD35V5017358",
       "stock": "KT27-54",
       "color": "Grey",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/69f799c3b973.html",
       "source_url": "https://www.harriskia.ca/vehicles/2027/kia/seltos/nanaimo/bc/71016499/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2027/kia/seltos/nanaimo/bc/71016499/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1872,14 +2200,17 @@
       "odometer_km": 33,
       "year": 2027,
       "make": "Kia",
-      "model": "Seltos LX AWD",
-      "condition": "new"
+      "model": "Seltos",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos X-Line Limited AWD | Panoramic Sunroof | Ventilate",
       "vin": "KNDEECD71V5018758",
       "stock": "KT27-57",
       "color": "Grey",
+      "trim": "X-Line Limited",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/62412b4bdde6.html",
       "source_url": "https://www.harriskia.ca/vehicles/2027/kia/seltos/nanaimo/bc/71016501/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2027/kia/seltos/nanaimo/bc/71016501/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1889,14 +2220,17 @@
       "odometer_km": 33,
       "year": 2027,
       "make": "Kia",
-      "model": "Seltos X-Line Limited AWD",
-      "condition": "new"
+      "model": "Seltos",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX AWD | Remote Start | Lane Keep Assist",
       "vin": "KNDEBCD32V5027197",
       "stock": "KT27-60",
       "color": "White",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/43a9b042ce0e.html",
       "source_url": "https://www.harriskia.ca/vehicles/2027/kia/seltos/nanaimo/bc/71071824/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2027/kia/seltos/nanaimo/bc/71071824/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1906,14 +2240,17 @@
       "odometer_km": 0,
       "year": 2027,
       "make": "Kia",
-      "model": "Seltos LX AWD",
-      "condition": "new"
+      "model": "Seltos",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX FWD | Remote Start | Lane Keep Assist",
       "vin": "KNDEB3D31V5029362",
       "stock": "KT27-61",
       "color": "White",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/829031ece1be.html",
       "source_url": "https://www.harriskia.ca/vehicles/2027/kia/seltos/nanaimo/bc/71071825/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2027/kia/seltos/nanaimo/bc/71071825/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1923,14 +2260,17 @@
       "odometer_km": 21,
       "year": 2027,
       "make": "Kia",
-      "model": "Seltos LX FWD",
-      "condition": "new"
+      "model": "Seltos",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos EX Premium AWD | Leatherette Seats | Panoramic Sun",
       "vin": "KNDECCD32V5024295",
       "stock": "KT27-63",
       "color": "Grey",
+      "trim": "EX Premium",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/4393e790ef9a.html",
       "source_url": "https://www.harriskia.ca/vehicles/2027/kia/seltos/nanaimo/bc/71092275/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2027/kia/seltos/nanaimo/bc/71092275/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1940,14 +2280,17 @@
       "odometer_km": 25,
       "year": 2027,
       "make": "Kia",
-      "model": "Seltos EX Premium AWD",
-      "condition": "new"
+      "model": "Seltos",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos EX Premium AWD | Leatherette Seats | Panoramic Sun",
       "vin": "KNDECCD34V7046500",
       "stock": "KT27-66",
       "color": "Black",
+      "trim": "EX Premium",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/8763a061283b.html",
       "source_url": "https://www.harriskia.ca/vehicles/2027/kia/seltos/nanaimo/bc/71107490/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2027/kia/seltos/nanaimo/bc/71107490/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1957,14 +2300,17 @@
       "odometer_km": 10,
       "year": 2027,
       "make": "Kia",
-      "model": "Seltos EX Premium AWD",
-      "condition": "new"
+      "model": "Seltos",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX FWD | Remote Start | Lane Keep Assist",
       "vin": "KNDEB3D34V7037380",
       "stock": "KT27-68",
       "color": "Silver",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/9477c1632971.html",
       "source_url": "https://www.harriskia.ca/vehicles/2027/kia/seltos/nanaimo/bc/71107491/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2027/kia/seltos/nanaimo/bc/71107491/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1974,14 +2320,17 @@
       "odometer_km": 33,
       "year": 2027,
       "make": "Kia",
-      "model": "Seltos LX FWD",
-      "condition": "new"
+      "model": "Seltos",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos EX Premium AWD | Ventilated Seats | Panoramic Sunr",
       "vin": "KNDECCD39V5024326",
       "stock": "KT27-69",
       "color": "Grey",
+      "trim": "EX Premium",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/507f7f0f2db6.html",
       "source_url": "https://www.harriskia.ca/vehicles/2027/kia/seltos/nanaimo/bc/71107498/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2027/kia/seltos/nanaimo/bc/71107498/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1991,14 +2340,17 @@
       "odometer_km": 30,
       "year": 2027,
       "make": "Kia",
-      "model": "Seltos EX Premium AWD",
-      "condition": "new"
+      "model": "Seltos",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX FWD | Remote Start | Lane Keep Assist",
       "vin": "KNDEB3D37V5029267",
       "stock": "KT27-82",
       "color": "Grey",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/b91c148288a9.html",
       "source_url": "https://www.harriskia.ca/vehicles/2027/kia/seltos/nanaimo/bc/71156102/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2027/kia/seltos/nanaimo/bc/71156102/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2008,14 +2360,17 @@
       "odometer_km": 23,
       "year": 2027,
       "make": "Kia",
-      "model": "Seltos LX FWD",
-      "condition": "new"
+      "model": "Seltos",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos EX AWD | Panoramic Sunroof | Remote Start",
       "vin": "KNDECCD33V7054183",
       "stock": "KT27-83",
       "color": "Green",
+      "trim": "EX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/b9aed8e6d533.html",
       "source_url": "https://www.harriskia.ca/vehicles/2027/kia/seltos/nanaimo/bc/71176051/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2027/kia/seltos/nanaimo/bc/71176051/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2025,14 +2380,17 @@
       "odometer_km": 23,
       "year": 2027,
       "make": "Kia",
-      "model": "Seltos EX AWD",
-      "condition": "new"
+      "model": "Seltos",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos EX AWD | Panoramic Sunroof | Remote Start",
       "vin": "KNDECCD38V5033275",
       "stock": "TR27-94",
       "color": "White",
+      "trim": "EX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/3d6fd54356f2.html",
       "source_url": "https://www.harriskia.ca/vehicles/2027/kia/seltos/nanaimo/bc/71300518/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2027/kia/seltos/nanaimo/bc/71300518/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2042,14 +2400,17 @@
       "odometer_km": 0,
       "year": 2027,
       "make": "Kia",
-      "model": "Seltos EX AWD",
-      "condition": "new"
+      "model": "Seltos",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX AWD | Remote Start | Lane Keep Assist",
       "vin": "KNDEBCD34V7015136",
       "stock": "KT27-97",
       "color": "White",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/454585f6e1d1.html",
       "source_url": "https://www.harriskia.ca/vehicles/2027/kia/seltos/nanaimo/bc/71357061/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2027/kia/seltos/nanaimo/bc/71357061/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2059,14 +2420,17 @@
       "odometer_km": 131,
       "year": 2027,
       "make": "Kia",
-      "model": "Seltos LX AWD",
-      "condition": "new"
+      "model": "Seltos",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX AWD | Remote Start | Lane Keep Assist",
       "vin": "KNDEBCD3XV5036276",
       "stock": "TR27-99",
       "color": "White",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/77fe1cf7354d.html",
       "source_url": "https://www.harriskia.ca/vehicles/2027/kia/seltos/nanaimo/bc/71369629/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2027/kia/seltos/nanaimo/bc/71369629/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2076,14 +2440,17 @@
       "odometer_km": 0,
       "year": 2027,
       "make": "Kia",
-      "model": "Seltos LX AWD",
-      "condition": "new"
+      "model": "Seltos",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid EX AWD | Leatherette Seats | Remote Start",
       "vin": "KNDPVDDG8V7422708",
       "stock": "KT27-35",
       "color": "White",
+      "trim": "EX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/b87d9e5d3cc7.html",
       "source_url": "https://www.harriskia.ca/vehicles/2027/kia/sportage-hybrid/nanaimo/bc/70736988/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2027/kia/sportage-hybrid/nanaimo/bc/70736988/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2093,14 +2460,17 @@
       "odometer_km": 22,
       "year": 2027,
       "make": "Kia",
-      "model": "Sportage Hybrid EX AWD",
-      "condition": "new"
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid EX AWD | Leatherette Seats | Remote Start",
       "vin": "KNDPVDDG1V7414756",
       "stock": "KT27-30",
       "color": "Black",
+      "trim": "EX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/20a02eb8ead9.html",
       "source_url": "https://www.harriskia.ca/vehicles/2027/kia/sportage-hybrid/nanaimo/bc/70736993/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2027/kia/sportage-hybrid/nanaimo/bc/70736993/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2110,14 +2480,17 @@
       "odometer_km": 26,
       "year": 2027,
       "make": "Kia",
-      "model": "Sportage Hybrid EX AWD",
-      "condition": "new"
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid EX Premium AWD | Panoramic Sunroof | Remote Start",
       "vin": "KNDPVDDG6V7416969",
       "stock": "KT27-28",
       "color": "White",
+      "trim": "EX Premium",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/29e97e618e06.html",
       "source_url": "https://www.harriskia.ca/vehicles/2027/kia/sportage-hybrid/nanaimo/bc/70736995/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2027/kia/sportage-hybrid/nanaimo/bc/70736995/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2127,14 +2500,17 @@
       "odometer_km": 24,
       "year": 2027,
       "make": "Kia",
-      "model": "Sportage Hybrid EX Premium AWD",
-      "condition": "new"
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid EX Premium AWD | Panoramic Sunroof | Remote Start",
       "vin": "KNDPVDDG4V7416842",
       "stock": "KT27-36",
       "color": "White",
+      "trim": "EX Premium",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/557d0782ef33.html",
       "source_url": "https://www.harriskia.ca/vehicles/2027/kia/sportage-hybrid/nanaimo/bc/70736998/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2027/kia/sportage-hybrid/nanaimo/bc/70736998/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2144,14 +2520,17 @@
       "odometer_km": 21,
       "year": 2027,
       "make": "Kia",
-      "model": "Sportage Hybrid EX Premium AWD",
-      "condition": "new"
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid EX AWD | Leatherette Seats | Remote Start",
       "vin": "KNDPVDDG9V7409286",
       "stock": "KT27-31",
       "color": "White",
+      "trim": "EX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/0db995f46493.html",
       "source_url": "https://www.harriskia.ca/vehicles/2027/kia/sportage-hybrid/nanaimo/bc/70742522/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2027/kia/sportage-hybrid/nanaimo/bc/70742522/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2161,14 +2540,17 @@
       "odometer_km": 22,
       "year": 2027,
       "make": "Kia",
-      "model": "Sportage Hybrid EX AWD",
-      "condition": "new"
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid EX AWD | Leatherette Seats | Remote Start",
       "vin": "KNDPVDDG4V7410894",
       "stock": "KT27-32",
       "color": "Blue",
+      "trim": "EX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/832dcb6cc932.html",
       "source_url": "https://www.harriskia.ca/vehicles/2027/kia/sportage-hybrid/nanaimo/bc/70742526/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2027/kia/sportage-hybrid/nanaimo/bc/70742526/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2178,14 +2560,17 @@
       "odometer_km": 21,
       "year": 2027,
       "make": "Kia",
-      "model": "Sportage Hybrid EX AWD",
-      "condition": "new"
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid EX AWD | Leatherette Seats | Remote Start",
       "vin": "KNDPVDDG0V7433217",
       "stock": "KT27-43",
       "color": "White",
+      "trim": "EX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/13182d7f0f6a.html",
       "source_url": "https://www.harriskia.ca/vehicles/2027/kia/sportage-hybrid/nanaimo/bc/70858328/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2027/kia/sportage-hybrid/nanaimo/bc/70858328/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2195,14 +2580,17 @@
       "odometer_km": 20,
       "year": 2027,
       "make": "Kia",
-      "model": "Sportage Hybrid EX AWD",
-      "condition": "new"
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid SX AWD | Panoramic Sunroof | Leatherette Seats",
       "vin": "KNDPXDDG1V7439330",
       "stock": "KT27-58",
       "color": "White",
+      "trim": "SX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/523e73e77401.html",
       "source_url": "https://www.harriskia.ca/vehicles/2027/kia/sportage-hybrid/nanaimo/bc/71016496/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2027/kia/sportage-hybrid/nanaimo/bc/71016496/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2212,14 +2600,17 @@
       "odometer_km": 23,
       "year": 2027,
       "make": "Kia",
-      "model": "Sportage Hybrid SX AWD",
-      "condition": "new"
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid EX Premium AWD | Panoramic Sunroof | Power Liftgat",
       "vin": "KNDPVDDG3V7447970",
       "stock": "KT27-72",
       "color": "Black",
+      "trim": "EX Premium",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/db855faffb37.html",
       "source_url": "https://www.harriskia.ca/vehicles/2027/kia/sportage-hybrid/nanaimo/bc/71107489/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2027/kia/sportage-hybrid/nanaimo/bc/71107489/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2229,14 +2620,17 @@
       "odometer_km": 24,
       "year": 2027,
       "make": "Kia",
-      "model": "Sportage Hybrid EX Premium AWD",
-      "condition": "new"
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid SX AWD | Panoramic Sunroof | Leatherette Seats",
       "vin": "KNDPXDDG7V7447254",
       "stock": "KT27-75",
       "color": "Blue",
+      "trim": "SX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/ba0d1c70cfac.html",
       "source_url": "https://www.harriskia.ca/vehicles/2027/kia/sportage-hybrid/nanaimo/bc/71107494/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2027/kia/sportage-hybrid/nanaimo/bc/71107494/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2246,14 +2640,17 @@
       "odometer_km": 30,
       "year": 2027,
       "make": "Kia",
-      "model": "Sportage Hybrid SX AWD",
-      "condition": "new"
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid SX AWD | Panoramic Sunroof | Leatherette Seats",
       "vin": "KNDPXDDG0V7447757",
       "stock": "KT27-74",
       "color": "Black",
+      "trim": "SX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/af81a8b17d38.html",
       "source_url": "https://www.harriskia.ca/vehicles/2027/kia/sportage-hybrid/nanaimo/bc/71107496/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2027/kia/sportage-hybrid/nanaimo/bc/71107496/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2263,14 +2660,17 @@
       "odometer_km": 29,
       "year": 2027,
       "make": "Kia",
-      "model": "Sportage Hybrid SX AWD",
-      "condition": "new"
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid SX AWD | Panoramic Sunroof | Leatherette Seats",
       "vin": "KNDPXDDG0V7447130",
       "stock": "KT27-73",
       "color": "Grey",
+      "trim": "SX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/b2722d984c0d.html",
       "source_url": "https://www.harriskia.ca/vehicles/2027/kia/sportage-hybrid/nanaimo/bc/71107497/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2027/kia/sportage-hybrid/nanaimo/bc/71107497/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2280,14 +2680,17 @@
       "odometer_km": 27,
       "year": 2027,
       "make": "Kia",
-      "model": "Sportage Hybrid SX AWD",
-      "condition": "new"
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid EX AWD | Leatherette Seats | Remote Start",
       "vin": "KNDPVDDG0V7444556",
       "stock": "KT27-79",
       "color": "Blue",
+      "trim": "EX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/3002859dad58.html",
       "source_url": "https://www.harriskia.ca/vehicles/2027/kia/sportage-hybrid/nanaimo/bc/71117682/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2027/kia/sportage-hybrid/nanaimo/bc/71117682/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2297,14 +2700,17 @@
       "odometer_km": 29,
       "year": 2027,
       "make": "Kia",
-      "model": "Sportage Hybrid EX AWD",
-      "condition": "new"
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid SX AWD | Panoramic Sunroof | Leatherette Seats",
       "vin": "KNDPXDDG1V7452062",
       "stock": "KT27-85",
       "color": "Black",
+      "trim": "SX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/f7f6c869e1b6.html",
       "source_url": "https://www.harriskia.ca/vehicles/2027/kia/sportage-hybrid/nanaimo/bc/71176048/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2027/kia/sportage-hybrid/nanaimo/bc/71176048/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2314,14 +2720,17 @@
       "odometer_km": 24,
       "year": 2027,
       "make": "Kia",
-      "model": "Sportage Hybrid SX AWD",
-      "condition": "new"
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid EX AWD | Leatherette Seats | Remote Start",
       "vin": "KNDPVDDG6V7453536",
       "stock": "TR27-84",
       "color": "Blue",
+      "trim": "EX",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/a4100757613e.html",
       "source_url": "https://www.harriskia.ca/vehicles/2027/kia/sportage-hybrid/nanaimo/bc/71176054/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2027/kia/sportage-hybrid/nanaimo/bc/71176054/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2331,14 +2740,17 @@
       "odometer_km": 0,
       "year": 2027,
       "make": "Kia",
-      "model": "Sportage Hybrid EX AWD",
-      "condition": "new"
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Plug-in Hybrid EX Premium AWD | Remote Start | Leatherette Seats",
       "vin": "KNDPVDDH9V7462479",
       "stock": "TR27-10",
       "color": "White",
+      "trim": "EX Premium",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/6367eefa1b57.html",
       "source_url": "https://www.harriskia.ca/vehicles/2027/kia/sportage-plug-in-hybrid/nanaimo/bc/71369632/?sale_class=new",
       "dealer_url": "https://www.harriskia.ca/vehicles/2027/kia/sportage-plug-in-hybrid/nanaimo/bc/71369632/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2348,8 +2760,10 @@
       "odometer_km": 0,
       "year": 2027,
       "make": "Kia",
-      "model": "Sportage Plug-in Hybrid EX Premium AWD",
-      "condition": "new"
+      "model": "Sportage Plug-In Hybrid",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage",
@@ -2363,7 +2777,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     }
   ]
 }
