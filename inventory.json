@@ -1,6 +1,6 @@
 {
   "dealership": "Harris Kia",
-  "generated_at": "2026-10-25T18:20:01",
+  "generated_at": "2026-10-26T03:22:24",
   "vehicle_count": 251,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -1703,7 +1703,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Kia Sorento Plug-In Hybrid LX AWD | 6-Passenger | Back-Up Camera",
+      "name": "2026 Kia Sorento Plug-In Hybrid LX AWD | 6-Passenger | Lane Keep Assist",
       "vin": "KNDRKDJH9T5527863",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/6528b0e5fa30.html",
       "year": 2026,
@@ -1754,7 +1754,7 @@
       "make": "Kia",
       "model": "Sportage",
       "condition": "new",
-      "price": 34895.0,
+      "price": 36145.0,
       "price_currency": "CAD"
     },
     {
