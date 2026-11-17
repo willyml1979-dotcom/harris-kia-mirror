@@ -1,7 +1,7 @@
 {
   "dealership": "Harris Kia",
-  "generated_at": "2026-10-26T03:22:24",
-  "vehicle_count": 251,
+  "generated_at": "2026-11-16T19:46:15",
+  "vehicle_count": 239,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1197,17 +1197,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Kia K4 Hatchback LX | Remote Start | Heated Seats",
-      "vin": "3KPFT5DE9TE349593",
-      "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/c3754223f9d4.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "K4",
-      "condition": "new",
-      "price": 26545.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Kia K4 Hatchback EX+ | Remote Start | Leatherette Seats",
       "vin": "3KPFX5DE1TE377327",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/0e76dbccda74.html",
@@ -1238,17 +1227,6 @@
       "model": "K4",
       "condition": "new",
       "price": 26045.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Kia K4 EX+ | Back-Up Camera | Remote Start",
-      "vin": "3KPFU4DE4TE346754",
-      "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/8902a34141f4.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "K4",
-      "condition": "new",
-      "price": 28345.0,
       "price_currency": "CAD"
     },
     {
@@ -1418,17 +1396,6 @@
     },
     {
       "name": "2026 Kia Niro EV Wind+ | Parking Sensors | Navigation",
-      "vin": "KNDCR3L11T5160985",
-      "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/1017853b9d17.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "Niro EV",
-      "condition": "new",
-      "price": 41945.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Kia Niro EV Wind+ | Parking Sensors | Navigation",
       "vin": "KNDCR3L15T5161119",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/8ca42938b267.html",
       "year": 2026,
@@ -1517,17 +1484,6 @@
     },
     {
       "name": "2026 Kia Niro EV Wind+ | Parking Sensors | Navigation",
-      "vin": "KNDCR3L14T5161371",
-      "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/42ed5582b8d6.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "Niro EV",
-      "condition": "new",
-      "price": 41945.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Kia Niro EV Wind+ | Parking Sensors | Navigation",
       "vin": "KNDCR3L12T5161448",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/d136cf8a5579.html",
       "year": 2026,
@@ -1583,17 +1539,6 @@
     },
     {
       "name": "2026 Kia Niro EV Wave | Navigation | Heated Seats",
-      "vin": "KNDCT3L12T5162651",
-      "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/69f425f9c7ad.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "Niro EV",
-      "condition": "new",
-      "price": 44980.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Kia Niro EV Wave | Navigation | Heated Seats",
       "vin": "KNDCT3L15T5162868",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/55863571eac9.html",
       "year": 2026,
@@ -1623,17 +1568,6 @@
       "model": "Sorento Hybrid",
       "condition": "new",
       "price": 45645.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Kia Sorento Hybrid EX AWD | Collision Avoidance | 6-Passenger",
-      "vin": "KNDRGDJG0T5515173",
-      "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/407cf66fbe5d.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "Sorento Hybrid",
-      "condition": "new",
-      "price": 46345.0,
       "price_currency": "CAD"
     },
     {
@@ -1692,17 +1626,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Kia Sorento Plug-In Hybrid LX AWD | 6-Passenger | Back-Up Camera",
-      "vin": "KNDRKDJH3T5508502",
-      "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/28f8ea4a1035.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "Sorento Plug-In Hybrid",
-      "condition": "new",
-      "price": 48485.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Kia Sorento Plug-In Hybrid LX AWD | 6-Passenger | Lane Keep Assist",
       "vin": "KNDRKDJH9T5527863",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/6528b0e5fa30.html",
@@ -1744,17 +1667,6 @@
       "model": "Sportage",
       "condition": "new",
       "price": 39795.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Kia Sportage LX AWD | Push Button Start | Parking Sensors",
-      "vin": "KNDPUCDF5T7486772",
-      "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/3eeac7be8ee5.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "Sportage",
-      "condition": "new",
-      "price": 36145.0,
       "price_currency": "CAD"
     },
     {
@@ -1886,7 +1798,7 @@
       "make": "Kia",
       "model": "Sportage",
       "condition": "new",
-      "price": 47195.0,
+      "price": 46945.0,
       "price_currency": "CAD"
     },
     {
@@ -1901,17 +1813,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Kia Sportage X-Line Limited AWD | Panoramic Sunroof | Parking Sensors",
-      "vin": "KNDPXCDF7T7527054",
-      "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/23e829fb04c6.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "Sportage",
-      "condition": "new",
-      "price": 47445.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Kia Sportage EX Premium AWD | Heated Seats | Navigation",
       "vin": "KNDPVCDF3T7530538",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/385a24a37665.html",
@@ -1919,7 +1820,7 @@
       "make": "Kia",
       "model": "Sportage",
       "condition": "new",
-      "price": 43980.0,
+      "price": 43730.0,
       "price_currency": "CAD"
     },
     {
@@ -1930,7 +1831,7 @@
       "make": "Kia",
       "model": "Sportage",
       "condition": "new",
-      "price": 43980.0,
+      "price": 43730.0,
       "price_currency": "CAD"
     },
     {
@@ -1941,7 +1842,7 @@
       "make": "Kia",
       "model": "Sportage",
       "condition": "new",
-      "price": 47480.0,
+      "price": 47230.0,
       "price_currency": "CAD"
     },
     {
@@ -2000,6 +1901,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027 Kia Carnival Hybrid SX | Leather Seats | Parking Sensors",
+      "vin": "KNDNE5KA2V6243906",
+      "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/336cee4f9400.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Carnival Hybrid",
+      "condition": "new",
+      "price": 58980.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Carnival Hybrid LX+ | 8-Passenger | Power Liftgate",
+      "vin": "KNDNB5KA0V6243704",
+      "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/eaecea43e72b.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Carnival Hybrid",
+      "condition": "new",
+      "price": 51230.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Kia Carnival SX+ 7-Passenger | Sunroof | Leather Seats",
       "vin": "KNDNE5K31V6658569",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/cbea3327adb9.html",
@@ -2019,17 +1942,6 @@
       "model": "Carnival",
       "condition": "new",
       "price": 45330.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Kia Carnival SX 8-Passenger | Parking Sensors | Leather Seats",
-      "vin": "KNDNE5K37V6672606",
-      "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/e8bdb3cbdc94.html",
-      "year": 2027,
-      "make": "Kia",
-      "model": "Carnival",
-      "condition": "new",
-      "price": 56730.0,
       "price_currency": "CAD"
     },
     {
@@ -2055,80 +1967,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia EV3 GT-Line Limited | Sunroof | Parking Assist",
-      "vin": "3KMDE4DA6VE002375",
-      "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/f2326c0e81b4.html",
+      "name": "2027 Kia Carnival EX | Parking Sensors | Leatherette Seats",
+      "vin": "KNDNC5K34V6679244",
+      "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/cff764024dd6.html",
       "year": 2027,
       "make": "Kia",
-      "model": "EV3",
+      "model": "Carnival",
       "condition": "new",
-      "price": 52230.0,
+      "price": 51730.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia EV3 GT-Line Limited | Sunroof | Parking Assist",
-      "vin": "3KMDE4DA8VE002605",
-      "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/01601c11c88b.html",
-      "year": 2027,
-      "make": "Kia",
-      "model": "EV3",
-      "condition": "new",
-      "price": 52230.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Kia EV3 GT-Line Limited | Sunroof | Parking Assist",
-      "vin": "3KMDE4DA6VE002974",
-      "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/523e4ad5f69e.html",
-      "year": 2027,
-      "make": "Kia",
-      "model": "EV3",
-      "condition": "new",
-      "price": 52230.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Kia EV3 GT-Line Limited | Sunroof | Parking Assist",
-      "vin": "3KMDE4DA7VE002384",
-      "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/2306ae18516c.html",
-      "year": 2027,
-      "make": "Kia",
-      "model": "EV3",
-      "condition": "new",
-      "price": 52230.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Kia EV3 Wind",
-      "vin": "3KMDBDDC2VE006854",
-      "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/88e61933b3a3.html",
-      "year": 2027,
-      "make": "Kia",
-      "model": "EV3",
-      "condition": "new",
-      "price": 46030.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Kia EV3 GT-Line",
-      "vin": "3KMDEDDC3VE006434",
-      "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/e53d38fd4498.html",
-      "year": 2027,
-      "make": "Kia",
-      "model": "EV3",
-      "condition": "new",
-      "price": 55030.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Kia EV3 Land",
-      "vin": "3KMDCDDC7VE006376",
-      "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/d913e752e613.html",
+      "name": "2027 Kia EV3 Land | Leatherette Seats | Sunroof",
+      "vin": "3KMDCDDC6VE007955",
+      "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/c7415aab32b9.html",
       "year": 2027,
       "make": "Kia",
       "model": "EV3 Land",
       "condition": "new",
-      "price": 48350.0,
+      "price": 48530.0,
       "price_currency": "CAD"
     },
     {
@@ -2165,6 +2022,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027 Kia EV4 Light | Heated Seats | Lane Keep Assist",
+      "vin": "KNAD24D29V6026175",
+      "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/b6f9dec7a4f7.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "EV4",
+      "condition": "new",
+      "price": 42130.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Kia EV5 GT-Line AWD | Leatherette Seats | Panoramic Sunroof",
       "vin": "KNDH5DDE4V7060024",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/ec47676b3c70.html",
@@ -2176,25 +2044,36 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia EV5 GT-Line | Leatherette Seats | Panoramic Sunroof",
-      "vin": "KNDH54DA1V7063752",
-      "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/7f453d8a207a.html",
+      "name": "2027 Kia EV5 GT-Line AWD | Leatherette Seats | Panoramic Sunroof",
+      "vin": "KNDH5DDE6V7065886",
+      "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/fc6e576458f5.html",
       "year": 2027,
       "make": "Kia",
       "model": "EV5",
       "condition": "new",
-      "price": 58030.0,
+      "price": 60280.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia EV5 Land | Navigation | Lane Follow Assist",
-      "vin": "KNDH44DA9V7063193",
-      "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/ab3c412fcb6a.html",
+      "name": "2027 Kia EV9 Land w/GT-Line 6P Pkg AWD | HUD System | Parking Sensors",
+      "vin": "KNDAEFS51V6088790",
+      "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/b06d9a9a3d1c.html",
       "year": 2027,
       "make": "Kia",
-      "model": "EV5 Land",
+      "model": "EV9 Land w/GT-Line 6P Pkg AWD",
       "condition": "new",
-      "price": 52230.0,
+      "price": 82330.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia EV9 Land AWD | 7-Passenger | Leatherette Seats",
+      "vin": "KNDAFFS52V6088942",
+      "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/ec5bb4869630.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "EV9 Land AWD",
+      "condition": "new",
+      "price": 67530.0,
       "price_currency": "CAD"
     },
     {
@@ -2238,17 +2117,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia Seltos LX FWD | Remote Start | Lane Keep Assist",
-      "vin": "KNDEB3D37V7017561",
-      "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/eb66eba11237.html",
-      "year": 2027,
-      "make": "Kia",
-      "model": "Seltos",
-      "condition": "new",
-      "price": 28480.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Kia Seltos EX Premium AWD | Remote Start | Panoramic Sunroof",
       "vin": "KNDECCD37V7041419",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/b497ffc76b8a.html",
@@ -2257,17 +2125,6 @@
       "model": "Seltos",
       "condition": "new",
       "price": 39280.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Kia Seltos EX AWD | Panoramic Sunroof | Remote Start",
-      "vin": "KNDECCD31V5018116",
-      "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/260d4933211f.html",
-      "year": 2027,
-      "make": "Kia",
-      "model": "Seltos",
-      "condition": "new",
-      "price": 35980.0,
       "price_currency": "CAD"
     },
     {
@@ -2382,17 +2239,6 @@
     },
     {
       "name": "2027 Kia Seltos EX AWD | Panoramic Sunroof | Remote Start",
-      "vin": "KNDECCD33V7054183",
-      "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/b9aed8e6d533.html",
-      "year": 2027,
-      "make": "Kia",
-      "model": "Seltos",
-      "condition": "new",
-      "price": 35980.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Kia Seltos EX AWD | Panoramic Sunroof | Remote Start",
       "vin": "KNDECCD38V5033275",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/3d6fd54356f2.html",
       "year": 2027,
@@ -2425,17 +2271,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia Seltos X-Line Limited AWD | Panoramic Sunroof | Remote Start",
-      "vin": "KNDEECD73V7075757",
-      "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/6066390bd812.html",
-      "year": 2027,
-      "make": "Kia",
-      "model": "Seltos",
-      "condition": "new",
-      "price": 43780.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Kia Seltos LX AWD | Remote Start | Lane Keep Assist",
       "vin": "KNDEBCD34V5044566",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/4c3ac266bf01.html",
@@ -2458,14 +2293,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia Sportage Hybrid EX AWD | Leatherette Seats | Remote Start",
-      "vin": "KNDPVDDG8V7422708",
-      "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/b87d9e5d3cc7.html",
+      "name": "2027 Kia Sorento Plug-In Hybrid SX AWD | Leather Seats | Surround View Monitor",
+      "vin": "KNDRMDJH6V5578170",
+      "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/e6288c854bd8.html",
       "year": 2027,
       "make": "Kia",
-      "model": "Sportage Hybrid",
+      "model": "Sorento Plug-In Hybrid",
       "condition": "new",
-      "price": 41680.0,
+      "price": 63480.0,
       "price_currency": "CAD"
     },
     {
@@ -2524,17 +2359,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia Sportage Hybrid SX AWD | Panoramic Sunroof | Leatherette Seats",
-      "vin": "KNDPXDDG1V7439330",
-      "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/523e73e77401.html",
-      "year": 2027,
-      "make": "Kia",
-      "model": "Sportage Hybrid",
-      "condition": "new",
-      "price": 50680.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Kia Sportage Hybrid EX Premium AWD | Panoramic Sunroof | Power Liftgate",
       "vin": "KNDPVDDG3V7447970",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/db855faffb37.html",
@@ -2587,17 +2411,6 @@
       "model": "Sportage Hybrid",
       "condition": "new",
       "price": 50430.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Kia Sportage Hybrid SX AWD | Panoramic Sunroof | Leatherette Seats",
-      "vin": "KNDPXDDG9V7467070",
-      "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/7a513dc58e7d.html",
-      "year": 2027,
-      "make": "Kia",
-      "model": "Sportage Hybrid",
-      "condition": "new",
-      "price": 50680.0,
       "price_currency": "CAD"
     },
     {
@@ -2686,6 +2499,61 @@
       "model": "Sportage Hybrid",
       "condition": "new",
       "price": 50680.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage Hybrid SX AWD | Panoramic Sunroof | Leatherette Seats",
+      "vin": "KNDPXDDG1V7478094",
+      "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/1a62b273fa3b.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "price": 50180.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage Hybrid EX Premium AWD | Leatherette Seats | Remote Start",
+      "vin": "KNDPVDDG2V7478112",
+      "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/89fb4bd29d66.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "price": 46680.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage Hybrid SX AWD | Panoramic Sunroof | Leatherette Seats",
+      "vin": "KNDPXDDGXV7476621",
+      "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/1c2c2215e994.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "price": 49930.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage Hybrid EX Premium AWD | Sunroof | Heated Windshield",
+      "vin": "KNDPVDDG3V7477034",
+      "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/deb73ad69c57.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "price": 46680.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage Hybrid SX AWD | Panoramic Sunroof |  Parking Assist",
+      "vin": "KNDPXDDG4V7484164",
+      "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/b6cba4ea0d23.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage Hybrid",
+      "condition": "new",
+      "price": 50180.0,
       "price_currency": "CAD"
     },
     {
