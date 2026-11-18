@@ -1,6 +1,6 @@
 # Harris Kia
 
- dealership in Nanaimo. AI-readable inventory mirror, about 250 vehicles.
+ dealership in Nanaimo. AI-readable inventory mirror, about 249 vehicles.
 
 - Official website: https://www.harriskia.ca/
 - Used vehicles: https://willyml1979-dotcom.github.io/harris-kia-mirror/used/

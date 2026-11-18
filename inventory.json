@@ -1,7 +1,7 @@
 {
   "dealership": "Harris Kia",
-  "generated_at": "2026-11-18T04:51:07",
-  "vehicle_count": 250,
+  "generated_at": "2026-11-18T13:26:44",
+  "vehicle_count": 249,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1123,7 +1123,7 @@
       "make": "Hyundai",
       "model": "Tucson",
       "condition": "used",
-      "price": 34888.0,
+      "price": 33999.0,
       "price_currency": "CAD"
     },
     {
@@ -1134,7 +1134,7 @@
       "make": "Kia",
       "model": "EV4",
       "condition": "used",
-      "price": 46500.0,
+      "price": 45520.0,
       "price_currency": "CAD"
     },
     {
@@ -1156,7 +1156,7 @@
       "make": "Kia",
       "model": "Niro EV",
       "condition": "used",
-      "price": 46998.0,
+      "price": 39999.0,
       "price_currency": "CAD"
     },
     {
@@ -1167,7 +1167,7 @@
       "make": "Kia",
       "model": "Niro EV",
       "condition": "used",
-      "price": 42888.0,
+      "price": 42258.0,
       "price_currency": "CAD"
     },
     {
@@ -1178,7 +1178,7 @@
       "make": "Kia",
       "model": "Niro Hybrid",
       "condition": "used",
-      "price": 32998.0,
+      "price": 38888.0,
       "price_currency": "CAD"
     },
     {
@@ -1222,7 +1222,7 @@
       "make": "Kia",
       "model": "Sorento Hybrid",
       "condition": "used",
-      "price": 48630.0,
+      "price": 47777.0,
       "price_currency": "CAD"
     },
     {
@@ -1233,7 +1233,7 @@
       "make": "Kia",
       "model": "Sorento Plug-In Hybrid",
       "condition": "used",
-      "price": 51998.0,
+      "price": 51023.0,
       "price_currency": "CAD"
     },
     {
@@ -1377,17 +1377,6 @@
       "model": "K4",
       "condition": "new",
       "price": 31630.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Kia K4 LX | Remote Start | Heated Seats",
-      "vin": "3KPFT4DE2TE395454",
-      "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/7edddc3e77e8.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "K4",
-      "condition": "new",
-      "price": 25830.0,
       "price_currency": "CAD"
     },
     {
@@ -1904,7 +1893,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 34888.0,
+      "price": 32587.0,
       "price_currency": "CAD"
     },
     {
@@ -1915,7 +1904,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 33888.0,
+      "price": 30450.0,
       "price_currency": "CAD"
     },
     {
@@ -2134,7 +2123,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "K4",
-      "condition": "new"
+      "condition": "new",
+      "price": 26780.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2027 Kia K4 GT-Line Turbo | Leatherette Seats | Sunroof",
@@ -2494,7 +2485,7 @@
       "make": "Kia",
       "model": "Sportage Hybrid",
       "condition": "new",
-      "price": 50430.0,
+      "price": 49930.0,
       "price_currency": "CAD"
     },
     {
@@ -2597,14 +2588,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia Sportage Hybrid SX",
+      "name": "2027 Kia Sportage Hybrid SX AWD | Panoramic Sunroof | Leatherette Seats",
       "vin": "KNDPXDDG9V7466632",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/6ea93d2da983.html",
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
       "condition": "new",
-      "price": 50680.0,
+      "price": 50180.0,
       "price_currency": "CAD"
     },
     {
@@ -2696,7 +2687,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia Sportage ",
+      "name": "2027 Kia Sportage LX | Heated Seats | Lane Follow Assist",
       "vin": "KNDPU3DF7V7549910",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/98a21b74c21f.html",
       "year": 2027,
@@ -2707,25 +2698,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia Sportage ",
+      "name": "2027 Kia Sportage EX AWD | Remote Start | Navigation",
       "vin": "KNDPVCDF2V7553103",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/285aa07dea18.html",
       "year": 2027,
       "make": "Kia",
       "model": "Sportage",
       "condition": "new",
-      "price": 40930.0,
+      "price": 42930.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia Sportage ",
+      "name": "2027 Kia Sportage X-Line AWD | Leatherette Seats | Parking Sensors",
       "vin": "KNDPUCDF1V7552009",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/5cdd0a62cc7d.html",
       "year": 2027,
       "make": "Kia",
       "model": "Sportage",
       "condition": "new",
-      "price": 44680.0,
+      "price": 40680.0,
       "price_currency": "CAD"
     },
     {
