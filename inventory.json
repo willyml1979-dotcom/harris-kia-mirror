@@ -1,6 +1,6 @@
 {
   "dealership": "Harris Kia",
-  "generated_at": "2026-11-17T18:40:28",
+  "generated_at": "2026-11-18T04:51:07",
   "vehicle_count": 250,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -821,7 +821,7 @@
       "make": "Hyundai",
       "model": "Kona",
       "condition": "used",
-      "price": 28888.0,
+      "price": 27743.0,
       "price_currency": "CAD"
     },
     {
@@ -876,7 +876,7 @@
       "make": "Jeep",
       "model": "Wrangler",
       "condition": "used",
-      "price": 49878.0,
+      "price": 49788.0,
       "price_currency": "CAD"
     },
     {
@@ -887,7 +887,7 @@
       "make": "Jeep",
       "model": "Wrangler",
       "condition": "used",
-      "price": 49888.0,
+      "price": 49198.0,
       "price_currency": "CAD"
     },
     {
@@ -898,7 +898,7 @@
       "make": "Kia",
       "model": "EV6 Land AWD",
       "condition": "used",
-      "price": 59999.0,
+      "price": 52888.0,
       "price_currency": "CAD"
     },
     {
@@ -931,7 +931,7 @@
       "make": "Kia",
       "model": "Sorento Hybrid",
       "condition": "used",
-      "price": 47998.0,
+      "price": 47245.0,
       "price_currency": "CAD"
     },
     {
@@ -953,7 +953,7 @@
       "make": "Kia",
       "model": "Sportage",
       "condition": "used",
-      "price": 39650.0,
+      "price": 37962.0,
       "price_currency": "CAD"
     },
     {
@@ -964,7 +964,7 @@
       "make": "Kia",
       "model": "Sportage",
       "condition": "used",
-      "price": 38777.0,
+      "price": 36313.0,
       "price_currency": "CAD"
     },
     {
@@ -986,7 +986,7 @@
       "make": "Mercedes-Benz",
       "model": "CLA",
       "condition": "used",
-      "price": 39999.0,
+      "price": 37935.0,
       "price_currency": "CAD"
     },
     {
@@ -1255,7 +1255,7 @@
       "make": "Kia",
       "model": "Carnival",
       "condition": "new",
-      "price": 47695.0,
+      "price": 47445.0,
       "price_currency": "CAD"
     },
     {
@@ -1673,7 +1673,7 @@
       "make": "Kia",
       "model": "Sorento Hybrid",
       "condition": "new",
-      "price": 57730.0,
+      "price": 57230.0,
       "price_currency": "CAD"
     },
     {
@@ -1684,7 +1684,7 @@
       "make": "Kia",
       "model": "Sorento Hybrid",
       "condition": "new",
-      "price": 48380.0,
+      "price": 47880.0,
       "price_currency": "CAD"
     },
     {
@@ -1695,7 +1695,7 @@
       "make": "Kia",
       "model": "Sorento Hybrid",
       "condition": "new",
-      "price": 48380.0,
+      "price": 47880.0,
       "price_currency": "CAD"
     },
     {
@@ -1717,7 +1717,7 @@
       "make": "Kia",
       "model": "Sportage Hybrid",
       "condition": "new",
-      "price": 49995.0,
+      "price": 50495.0,
       "price_currency": "CAD"
     },
     {
@@ -2146,7 +2146,7 @@
       "condition": "new"
     },
     {
-      "name": "2027 Kia K4 GT-Line Turbo",
+      "name": "2027 Kia K4 GT-Line Turbo | Leatherette Seats | Sunroof",
       "vin": "3KPFU5DC2VE440722",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/73c65333dca2.html",
       "year": 2027,
@@ -2157,7 +2157,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia K4 EX",
+      "name": "2027 Kia K4 EX+ | Remote Start | Lane Keep Assist",
       "vin": "3KPFU4DE2VE434429",
       "url": "https://willyml1979-dotcom.github.io/harris-kia-mirror/new/4c2baa7d7a31.html",
       "year": 2027,
@@ -2680,7 +2680,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "price": 44930.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2027 Kia Sportage EX AWD | Remote Start | Navigation",
